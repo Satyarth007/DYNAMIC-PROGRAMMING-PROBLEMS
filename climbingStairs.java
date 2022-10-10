@@ -11,7 +11,8 @@ class Solution {
                                                    
         return ans[n];
         
-    
+    // TC:- O(n)
+    // S.C:- O(n)    
     
     
     }
